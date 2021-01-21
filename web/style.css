@@ -1,0 +1,169 @@
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #DBDBDB;
+}
+
+#container{
+	width:100%;
+	padding:1%;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+  float: left;
+  font-size: 20px;
+  color: #D5413F;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-weight:bold;
+}
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: grey;
+}
+
+
+.yazi1{
+font-size:33pt;
+margin-left:5%;
+color:#D5413F;
+font-weight: bold;
+margin:2%;}
+
+.resim1{
+margin-top:5%;
+width:40%;
+height:45%;
+float:left;
+}
+
+.yazi2{
+	float:right;
+	margin-left:3%;
+	margin-top:3%;
+	width:57%;
+	
+}
+.yazi2 img{
+	padding-top:6%;
+	width:100%;
+	height:100%;
+}
+
+
+.resim1 img{
+width:100%;
+height:100%;
+}    
+
+
+
+.temizle{
+	clear:both;
+}
+	
+	
+	
+	
+	
+	
+	
+#yazi3{
+	text-align:center;
+	font-size:15pt;
+	color:#000;
+	font-family:verdana;
+	margin-top:5%;
+}	
+#yazi4{
+	font-size:15pt;
+	color:#000;
+	font-family:verdana;
+	margin-top:5%;
+}
+
+	
+#gorsel{
+	text-align:center;
+	margin-top:5%;
+}
+
+#yazi5{
+	font-size:15pt;
+	color:#000;
+	font-family:verdana;
+	margin-top:5%;
+	margin-left:2%;
+}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+footer {
+	margin-top:20%;
+    color: #fff;
+}
+
+.footer-top {
+    background: #2f2f2f;
+    padding:50px 0 50px;
+	font-size:20pt;
+}
+
+ul.address1 i.fa-envelope {
+    font-size: 18px;
+    top: 4px;
+}
+.footer-bottom {
+    background: #416C0C;
+    padding: 10px 0px;
+}
+.copyright {
+    font-size: 15pt;
+	text-align:center;
+}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
